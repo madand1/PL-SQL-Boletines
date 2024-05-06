@@ -1,2 +1,2 @@
 # PL-SQL-Boletines
-Repositorio de práctica
+Repositorio de prueba para el estudio de PLSQL 
